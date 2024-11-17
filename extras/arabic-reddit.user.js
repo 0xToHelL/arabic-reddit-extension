@@ -4,6 +4,8 @@
 // @description    Script that fixes arabic language in reddit
 // @author         andronasef.dev
 // @match          https://www.reddit.com/*
+// @match          https://sh.reddit.com/*
+// @match          https://new.reddit.com/*
 // @icon           https://www.google.com/s2/favicons?domain=reddit.com&sz=128
 // ==/UserScript==
 
